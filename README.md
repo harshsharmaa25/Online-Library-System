@@ -37,16 +37,23 @@ npm start
 **Frontend:**
 
 React.js ⚛️
+
 React Router 🚦
+
 Tailwind CSS 🎨
+
 Redux 🗄️
+
 React Hook Form 📋
+
 Yup (for form validation) ✅
 
 **Backend (if applicable):**
 
 Node.js 🌐
+
 Express.js 🚀
+
 MongoDB 🗃️
 
 
@@ -56,28 +63,42 @@ MongoDB 🗃️
 ## 📝 Usage
 
 **01. Sign Up / Login:** Create a new account or log in to your existing account. ✍️
+
 **2. Browse Books:** Use the navigation links to explore different categories or search for specific books. 🔍
+
 **3. Add a Book:** If you have permissions, use the "Add Book" form to input new book details. 📚
+
 **4. View Details:** Click on any book to see more information and manage it if you are an authorized user. 📄
 
+
 ## 🤝 Contributing
+
 Contributions are welcome! If you’d like to contribute, please follow these steps:
 
 1. Fork the repository. 🍴
+
 2. Create a new branch (git checkout -b feature-branch). 🌿
+
 3. Make your changes and commit them (git commit -m 'Add some feature'). 📝
+
 4. Push to the branch (git push origin feature-branch). 📤
+
 5. Create a new Pull Request. 🔄
 
 ## 📜 License
+
 This project is licensed under the MIT License - see the LICENSE file for details. 📄
 
 ## 🙏 Acknowledgements
+
 Thanks to all contributors and the community for their support. 🤗
+
 Inspired by various online library systems. 🌐
 
 ## 📬 Contact
+
 For any questions or feedback, please reach out to:
 
 Email: harsh24aug2001@gmail.com 📧
+
 GitHub: harshsharmaa25 🖥️
