@@ -62,7 +62,7 @@ MongoDB 🗃️
 
 ## 📝 Usage
 
-**01. Sign Up / Login:** Create a new account or log in to your existing account. ✍️
+**1. Sign Up / Login:** Create a new account or log in to your existing account. ✍️
 
 **2. Browse Books:** Use the navigation links to explore different categories or search for specific books. 🔍
 
